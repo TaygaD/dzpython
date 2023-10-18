@@ -18,7 +18,7 @@ while n>1:
         print("Вы проиграли!")
         break
     n=n-k
-    if n==1:
+    if n==2:
         print("Вы проиграли!")
         break
 
